@@ -4,7 +4,7 @@ Stylesheet Activity 1
 
 2. Add the following style definitions to the css file:
 
-[Here](https://www.w3schools.com/css/css_syntax.asp) goes insturctions on how to put the styles in
+[Here](https://www.w3schools.com/css/css_syntax.asp) goes instructions on how to put the styles in
 <pre>
 body 
 background color #FFFFFF
