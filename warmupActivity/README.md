@@ -5,7 +5,7 @@ Stylesheet Activity 1
 2. Add the following style definitions to the css file:
 
 [Here](https://www.w3schools.com/css/css_syntax.asp) goes insturctions on how to put the styles in
-`
+<pre>
 body 
 background color #FFFFFF
       
@@ -28,7 +28,7 @@ background color #E2E2EF
 
 footer 
 color #666666
-`
+</pre>
 
 3. Create a class called company-name that defines a style rule of: color #6A6AA7.
    Make the span element around instances of Trillium Media Design reference this class.
