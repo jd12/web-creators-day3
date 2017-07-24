@@ -6,28 +6,27 @@ Stylesheet Activity 1
 
 [Here](https://www.w3schools.com/css/css_syntax.asp) goes instructions on how to put the styles in
 <pre>
-body 
-background color #FFFFFF
-      
-color #191970 
+body {
+      background-color; #FFFFFF;
+      color: #191970;
+}
 
+h1 { 
+      background-color: #191970;
+      color: #E6E6FA;
+}
 
-h1  
-background color #191970
-    
-color #E6E6FA
+h2 {
+      color: #6A6AA7;
+}
 
+nav {
+      background-color: #E2E2EF;
+}
 
-h2 
-color #6A6AA7
-
-
-nav
-background color #E2E2EF
-
-
-footer 
-color #666666
+footer {
+      color: #666666;
+}
 </pre>
 
 3. Create a class called company-name that defines a style rule of: color #6A6AA7.
