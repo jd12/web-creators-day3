@@ -11,7 +11,7 @@ The color of the text of the headers are `#5C743D`<br>
 The company name color is also `#5C743D`<br>
 
 
-![Trillium Colors](images/trilliumColors.png)
+![Trillium Colors](images/trilliumGreen.png)
 
 
 Do the following:
