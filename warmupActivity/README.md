@@ -35,3 +35,4 @@ Do the following:
 
 9. change the list markers for the unordered lists on the contacts and index pages to use the trillium.gif image instead of the bullet points.
 
+
