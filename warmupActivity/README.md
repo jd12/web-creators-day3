@@ -4,6 +4,13 @@
 
 First start by tweaking your Trillium to site to look like this: 
 
+The background color of the page is `#F4FFE4` <br>
+The color of the text on the page is `#333333`<br>
+The background color of the headers are `#D5EDB3`<br>
+The color of the text of the headers are `#5C743D`<br>
+The company name color is also `#5C743D`<br>
+
+
 ![Trillium Colors](images/trilliumColors.png)
 
 Using the starter files in the "warmupActivity" folder:<br>
@@ -13,9 +20,9 @@ Using the starter files in the "warmupActivity" folder:<br>
 
 Do the following:
 
-1. create a "trilliumStylesheet.css" file in a folder called "css". Upload all image files in a folder called "images".
+1.  Upload all image files in a folder called "images".
 
-2. remove the embedded styles from index.html and place them in the stylesheet, add the link to all html files in the site.
+2. remove any embedded styles from index.html and place them in the stylesheet, add the link to the css to all html files in the site.
 
 3. remove all `<small><i>` tags from the footer of all html files and add css style rules to do that styling.
 
