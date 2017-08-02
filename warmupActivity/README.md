@@ -1,5 +1,11 @@
 # Web Creators Day 3 Warmup Activity
 
+## Mini Challenge 
+
+First start by tweaking your Trillium to site to look like this: 
+
+![Trillium Colors](images/trilliumColors.png)
+
 Using the starter files in the "warmupActivity" folder:<br>
 [index.html](index.html)<br>
 [services.html](services.html)<br>
