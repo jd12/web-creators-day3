@@ -37,6 +37,6 @@ Do the following:
 
 10. Your page should look like this now:
 
-![Trillium Final](trilliumFinal.png)
+![Trillium Final](images/trilliumFinal.png)
 
 
