@@ -20,10 +20,10 @@ Do the following:
 
 2. remove all `<small><i>` tags from the footer of all html files and add css style rules to do that styling.
 
-3. Using CSS, add a [background image](https://www.w3schools.com/cssref/pr_background-image.asp) with the `trilliumbanner.jpg` image to your h1 like so: 
+3. In your HTML, replace the h1 text with the `trilliumbanner.jpg`like so: 
 ![H1 Trillium Banner](images/h1TrilliumBanner.png)
 
-4. Add a [background image](https://www.w3schools.com/cssref/pr_background-image.asp), trilliumbg.gif, to the H2 elements vis the style definition in the stylesheet.
+4. In your CSS, add a [background image](https://www.w3schools.com/cssref/pr_background-image.asp), trilliumbg.gif, to the H2 elements vis the style definition in the stylesheet.
    You will need set it to not repeat. Add [left padding](https://www.w3schools.com/css/css_padding.asp) of 30px.
 
 5. Copy the nav bar into the footer. Do not delete the nav bar at the top of the screen.
