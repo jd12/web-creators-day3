@@ -21,6 +21,7 @@ Do the following:
 2. remove all `<small><i>` tags from the footer of all html files and add css style rules to do that styling.
 
 3. Using CSS, add a [background image](https://www.w3schools.com/cssref/pr_background-image.asp) with the `trilliumbanner.jpg` image to your h1 like so: 
+![H1 Trillium Banner](h1TrilliumBanner.png)
 
 4. Add a [background image](https://www.w3schools.com/cssref/pr_background-image.asp), trilliumbg.gif, to the H2 elements vis the style definition in the stylesheet.
    You will need set it to not repeat. Add [left padding](https://www.w3schools.com/css/css_padding.asp) of 30px.
