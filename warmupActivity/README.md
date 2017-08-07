@@ -25,6 +25,7 @@ Do the following:
 
 4. In your CSS, add a [background image](https://www.w3schools.com/cssref/pr_background-image.asp), trilliumbg.gif, to the H2 elements vis the style definition in the stylesheet.
    You will need set it to not repeat. Add [left padding](https://www.w3schools.com/css/css_padding.asp) of 30px.
+   ![Trillium H2](trilliumH2CSS.png)
 
 5. Copy the nav bar into the footer. Do not delete the nav bar at the top of the screen.
 
