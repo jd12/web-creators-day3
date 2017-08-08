@@ -28,6 +28,7 @@ Do the following:
    ![Trillium H2](images/trilliumH2CSS.png)
 
 5. Copy the nav bar into the footer. Do not delete the nav bar at the top of the screen.
+![Nav Bar Updated](images/navbarUpdated.png)
 
 6. replace the navigation links **BELOW THE HEADER** with the images provided.
 
