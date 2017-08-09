@@ -31,6 +31,7 @@ Do the following:
 ![Nav Bar Updated](images/navbarUpdated.png)
 
 6. replace the navigation links **BELOW THE HEADER** with the images provided.
+![Nav Bar Images](images/navbarImages.png)
 
 7. add the trulliumfoot.gif to the footer as a background image. Position it at the top right of the footer. Make the footer height be 75 pixels.
 
