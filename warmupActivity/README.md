@@ -34,6 +34,7 @@ Do the following:
 ![Nav Bar Images](images/navbarImages.png)
 
 7. add the trulliumfoot.gif to the footer as a background image. Position it at the top right of the footer. Make the footer height be 75 pixels.
+![Footer CSS](images/footerCSS.png)
 
 8. Add the favorites icon image link to each page.
 
