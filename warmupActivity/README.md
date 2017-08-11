@@ -39,6 +39,7 @@ Do the following:
 8. Add the favorites icon image link to each page.
 
 9. change the list markers for the unordered lists on the contacts and index pages to use the trillium.gif image instead of the bullet points.
+![UL CSS](images/ulCSS.png)
 
 10. Your page should look like this now:
 
