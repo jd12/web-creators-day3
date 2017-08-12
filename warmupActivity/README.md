@@ -27,7 +27,7 @@ Do the following:
    You will need set it to not repeat. Add [left padding](https://www.w3schools.com/css/css_padding.asp) of 30px.
    ![Trillium H2](images/readmeImages/trilliumH2CSS.png)
 
-5. Copy the nav bar into the footer. Do not delete the nav bar at the top of the screen.
+5. Copy the nav bar into the footer. **DO NOT** delete the nav bar at the top of the screen.
 ![Nav Bar Updated](images/readmeImages/navbarUpdated.png)
 
 6. replace the navigation links **BELOW THE HEADER** with the images provided.
