@@ -37,7 +37,7 @@ Do the following:
 ![Footer CSS](images/footerCSS.png)
 
 8. Add the favorites icon image link to each page. Put it between your `<head>` tags, right after the link to your CSS file.
-![Fav Icon](images/favicon.png)
+![Fav Icon](images/favIcon.png)
 
 9. change the list markers for the unordered lists on the contacts and index pages to use the trillium.gif image instead of the bullet points.
 ![UL CSS](images/ulCSS.png)
