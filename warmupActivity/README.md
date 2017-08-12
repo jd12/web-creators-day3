@@ -36,7 +36,8 @@ Do the following:
 7. add the trulliumfoot.gif to the footer as a background image. Position it at the top right of the footer. Make the footer height be 75 pixels.
 ![Footer CSS](images/footerCSS.png)
 
-8. Add the favorites icon image link to each page.
+8. Add the favorites icon image link to each page. Put it between your `<head>` tags, right after the link to your CSS file.
+![Fav Icon](images/favicon.png)
 
 9. change the list markers for the unordered lists on the contacts and index pages to use the trillium.gif image instead of the bullet points.
 ![UL CSS](images/ulCSS.png)
