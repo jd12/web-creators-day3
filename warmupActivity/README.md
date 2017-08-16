@@ -5,7 +5,7 @@
 First start by tweaking your Trillium to site to look like this: 
 
 The background color of the page is `#F4FFE4` <br>
-The color of the text on the page is `#333333`<br>
+The color of the text in the body of the page is `#333333`<br>
 The background color of the headers are `#D5EDB3`<br>
 The color of the text of the headers are `#5C743D`<br>
 The company name color is also `#5C743D`<br>
