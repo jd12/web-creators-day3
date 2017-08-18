@@ -46,4 +46,6 @@ Do the following:
 
 ![Trillium Final](images/readmeImages/trilliumFinal.png)
 
+## DONE 
 
+Great job! There's no Day 3 Challenge. You can move to the [Day 4 Warmup](https://github.com/jd12/web-creators-day4/tree/master/warmupActivity)
