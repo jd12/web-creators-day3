@@ -5,7 +5,7 @@
 First start by tweaking your Trillium to site to look like this: 
 
 The background color of the page is `#F4FFE4` <br>
-The color of the text on the page is `#333333`<br>
+The color of the text in the body of the page is `#333333`<br>
 The background color of the headers are `#D5EDB3`<br>
 The color of the text of the headers are `#5C743D`<br>
 The company name color is also `#5C743D`<br>
@@ -27,7 +27,7 @@ Do the following:
    You will need set it to not repeat. Add [left padding](https://www.w3schools.com/css/css_padding.asp) of 30px.
    ![Trillium H2](images/readmeImages/trilliumH2CSS.png)
 
-5. Copy the nav bar into the footer. Do not delete the nav bar at the top of the screen.
+5. Copy the nav bar into the footer, above the Copyright line. **DO NOT** delete the nav bar at the top of the screen.
 ![Nav Bar Updated](images/readmeImages/navbarUpdated.png)
 
 6. replace the navigation links **BELOW THE HEADER** with the images provided.
@@ -46,4 +46,6 @@ Do the following:
 
 ![Trillium Final](images/readmeImages/trilliumFinal.png)
 
+## DONE 
 
+Great job! There's no Day 3 Challenge. You can move to the [Day 4 Warmup](https://github.com/jd12/web-creators-day4/tree/master/warmupActivity)
