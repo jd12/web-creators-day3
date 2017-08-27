@@ -16,7 +16,7 @@ The company name color is also `#5C743D`<br>
 
 Do the following:
 
-1. Upload all image files in a folder called "images". [Download](https://github.com/jd12/web-creators-day3/archive/master.zip) the repository. Unzip the file (usually can be achieved by double clicking on the .zip file). Go into the folder -> warmupActivity and then drag and drop the iamges folder into your Thimble project.
+1. Upload all image files in a folder called "images". [Download](https://github.com/jd12/web-creators-day3/archive/master.zip) the repository. Unzip the file (usually can be achieved by double clicking on the .zip file). Go into the folder -> warmupActivity and then drag and drop the images folder into your Thimble project.
 
 2. remove all `<small><i>` tags from the footer of all html files and add css style rules to do that styling.
 
